@@ -18,7 +18,6 @@ movies = [
     {"title": "The Pork of Music", "year": "2012"},
 ]
 
-
 # 注册一个处理函数，官方叫视图函数(view function)
 # 装饰器app.route()绑定对应的URL
 # 用户访问这个URL时，就会触发这个函数，获取返回值，并显示在浏览器窗口
